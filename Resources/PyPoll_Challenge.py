@@ -6,7 +6,7 @@ import csv
 import os
 
 # Add a variable to load a file from a path.
-file_to_load = os.path.join("Election-Analysis", "Resources", "election_results.csv")
+file_to_load = os.path.join( "Resources", "election_results.csv")
 # Add a variable to save the file to a path.
 file_to_save = os.path.join("analysis", "election_results.txt")
 
@@ -18,7 +18,7 @@ candidate_options = []
 candidate_votes = {}
 
 # 1: Create a county list and county votes dictionary.
-county_list = []
+county_options = []
 county_votes = {}
 
 # Track the winning candidate, vote count and percentage
@@ -37,10 +37,10 @@ with open(file_to_load) as election_data:
 
 
     # Read the header
-    header = next(reader)
+    headers = next(file_reader)
 
     # For each row in the CSV file.
-    for row in reader:
+    for row in file_reader:
 
         # Add to the total vote count
         total_votes = total_votes + 1

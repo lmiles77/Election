@@ -15,7 +15,7 @@ The following information can be observed in the image below:
 
 •	Winning candidate, total vote count for winning candidate, and the percentage of the total votes received by winning candidate
  
-
+https://github.com/lmiles77/Election-Analysis/blob/main/Election_Results_txt.PNG
 
 
 

@@ -3,7 +3,7 @@
 The purpose of this election audit is to provide the election commission with results from their most recent election. This audit will assist the commission in understanding voter turnout from each county, the percentage of votes from each county out of the total count, as well as the county with the highest voter turnout.    
 
 ## Election-Audit Results: 
-The following information can be observed by clicking the link below:
+The following information can be observed in image below:
 
 •	Number of votes cast in this congressional election
 
@@ -14,6 +14,13 @@ The following information can be observed by clicking the link below:
 •	Number of votes and the percentage of the total votes each candidate received
 
 •	Winning candidate, total vote count for winning candidate, and the percentage of the total votes received by winning candidate
+ 
+ ![image](https://user-images.githubusercontent.com/80069183/113517237-47367c80-9544-11eb-949e-2e72366f5d58.png)
+
+
+ 
+ 
+ 
  
 https://github.com/lmiles77/Election-Analysis/blob/main/Election_Results_txt.PNG
 

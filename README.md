@@ -4,10 +4,15 @@ The purpose of this election audit is to provide the election commission with re
 
 ## Election-Audit Results: 
 The following information can be observed in the image below:
+
 •	Number of votes cast in this congressional election
-•	Number of votes and the percentage of total votes for each county in the precinct
+
+•	Number of votes and the percentage of total votes for each county
+
 •	County with the largest number of votes
+
 •	Number of votes and the percentage of the total votes each candidate received
+
 •	Winning candidate, total vote count for winning candidate, and the percentage of the total votes received by winning candidate
  
 

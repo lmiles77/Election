@@ -17,12 +17,6 @@ The following information can be observed by clicking the link below:
  
 https://github.com/lmiles77/Election-Analysis/blob/main/Election_Results_txt.PNG
 
-
-
-
-
-
-
 ## Election-Audit Summary:
 The script provided can be utilized by the election commission to analyze future election data by first ensuring file to load follows similar path as one provided. The future election results (csv file) should be stored in the “Resources” folder of programmer or changed to suitable location. If location is changed it will also need to reflect in the os.path. The title of the election results file (csv) to be analyzed will need to be changed to the title of the file to be analyzed.  The title of the election results (csv file) will also need to be changed throughout the Pypoll Challenge.py file to reflect the name of the file to be analyzed. This will need to be done to avoid analyzing incorrect data.
 
